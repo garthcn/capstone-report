@@ -1,3 +1,6 @@
 *.*
-!*.tex
+!one.tex
+!two.tex
+!three.tex
+!thes-both.bib
 !.gitignore
